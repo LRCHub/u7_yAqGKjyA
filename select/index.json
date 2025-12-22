@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "スマイル",
+  "base_artist": "Nana Mori",
+  "createdAt": "2025-12-22T13:50:13.505869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スマイル",
+      "artist": "Sixx:A.M.",
+      "has_synced": true,
+      "path": "select/01_スマイル_Sixx_A.M..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プリキュア5、スマイル go go!",
+      "artist": "工藤真由",
+      "has_synced": false,
+      "path": "select/02_プリキュア5、スマイル_go_go!_工藤真由.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オリジナル スマイル(SMAP)",
+      "artist": "コロムビアオルゴール",
+      "has_synced": false,
+      "path": "select/03_オリジナル_スマイル(SMAP)_コロムビアオルゴール.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/04_スマイル・フォー・ミー_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー (スペース・オブ・ラヴ・ミックス)",
+      "artist": "小比類巻かほる",
+      "has_synced": false,
+      "path": "select/05_スマイル・フォー・ミー_(スペース・オブ・ラヴ・ミックス)_小比類巻かほる.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー",
+      "artist": "黒乃胡夢（福圓美里）",
+      "has_synced": false,
+      "path": "select/06_スマイル・フォー・ミー_黒乃胡夢(福圓美里).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー",
+      "artist": "黒乃胡夢 (福圓美里)",
+      "has_synced": false,
+      "path": "select/07_スマイル・フォー・ミー_黒乃胡夢_(福圓美里).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミスター・スマイル",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/08_ミスター・スマイル_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "パワー オブ スマイル",
+      "artist": "KŪKO (Waffle)",
+      "has_synced": false,
+      "path": "select/09_パワー_オブ_スマイル_KŪKO_(Waffle).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スマイル スマイル〜VERSION2001〜",
+      "artist": "堀江由衣 & 雪乃五月",
+      "has_synced": false,
+      "path": "select/10_スマイル_スマイル〜VERSION2001〜_堀江由衣_&_雪乃五月.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スマイル スマイル〜VERSION2001〜",
+      "artist": "堀江由衣 & 雪野五月",
+      "has_synced": false,
+      "path": "select/11_スマイル_スマイル〜VERSION2001〜_堀江由衣_&_雪野五月.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー",
+      "artist": "Naoko Kawai",
+      "has_synced": true,
+      "path": "select/12_スマイル・フォー・ミー_Naoko_Kawai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Smile (ミスター・スマイル)",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/13_Mr._Smile_(ミスター・スマイル)_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_01_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_02_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_03_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_04_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_05_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "スマイル",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_06_スマイル_森七菜.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "スマイル -WINTER MIX-",
+      "artist": "森七菜",
+      "has_synced": false,
+      "path": "select/pl_07_スマイル_-WINTER_MIX-_森七菜.txt"
+    }
+  ]
+}
